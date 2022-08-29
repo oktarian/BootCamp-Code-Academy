@@ -1,0 +1,146 @@
+﻿++Solution 'QuizDay1' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:QuizDay1.sln
+++QuizDay1
+i:{00000000-0000-0000-0000-000000000000}:QuizDay1
+++Dependencies
+i:{189f93f5-9633-4ba0-80e8-a2a6d1e4e4cd}:>354
+++Program.cs
+i:{189f93f5-9633-4ba0-80e8-a2a6d1e4e4cd}:c:\users\user\desktop\c# fundamental learn\hari 1\latihan 1\quizday1\program.cs
+++Quiz.cs
+i:{189f93f5-9633-4ba0-80e8-a2a6d1e4e4cd}:c:\users\user\desktop\c# fundamental learn\hari 1\latihan 1\quizday1\quiz.cs
+++Analyzers
+i:{189f93f5-9633-4ba0-80e8-a2a6d1e4e4cd}:analyzers
+++Frameworks
+i:{189f93f5-9633-4ba0-80e8-a2a6d1e4e4cd}:frameworks
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{189f93f5-9633-4ba0-80e8-a2a6d1e4e4cd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{189f93f5-9633-4ba0-80e8-a2a6d1e4e4cd}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{189f93f5-9633-4ba0-80e8-a2a6d1e4e4cd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{189f93f5-9633-4ba0-80e8-a2a6d1e4e4cd}:c:\users\user\desktop\c# fundamental learn\hari 1\latihan 1\quizday1\microsoft.netcore.app
+++QuizDay1.sln
+++bin
+++Debug
+++net6.0
+++QuizDay1.deps.json
+++QuizDay1.dll
+++QuizDay1.exe
+++QuizDay1.pdb
+++QuizDay1.runtimeconfig.json
+++obj
+++project.assets.json
+++project.nuget.cache
+++QuizDay1.csproj.nuget.dgspec.json
+++QuizDay1.csproj.nuget.g.props
+++QuizDay1.csproj.nuget.g.targets
+++ref
+++refint
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+++apphost.exe
+++QuizDay1.AssemblyInfo.cs
+++QuizDay1.AssemblyInfoInputs.cache
+++QuizDay1.assets.cache
+++QuizDay1.csproj.AssemblyReference.cache
+++QuizDay1.csproj.BuildWithSkipAnalyzers
+++QuizDay1.csproj.CoreCompileInputs.cache
+++QuizDay1.csproj.FileListAbsolute.txt
+++QuizDay1.GeneratedMSBuildEditorConfig.editorconfig
+++QuizDay1.genruntimeconfig.cache
+++QuizDay1.GlobalUsings.g.cs
+++Imports
+++Sdk.props
+++Sdk.targets
+++Microsoft.Common.props
+++Microsoft.NET.Sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+++Microsoft.CSharp.targets
+++Microsoft.NET.Sdk.targets
+++Microsoft.NET.Compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+++Microsoft.NuGet.ImportBefore.props
+++NuGet.props
+++Microsoft.NET.Sdk.DefaultItems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+++Microsoft.NET.SupportedPlatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+++Microsoft.NET.ILLink.props
+++Microsoft.NET.Compatibility.props
+++Microsoft.NET.PackTool.props
+++Microsoft.NET.PackProjectTool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+++Microsoft.NET.Windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+++Microsoft.Managed.Before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+++Microsoft.Managed.After.targets
+++Microsoft.NET.Sdk.Common.targets
+++Microsoft.PackageDependencyResolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+++Microsoft.NET.DesignerSupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+++Microsoft.NET.ComposeStore.targets
+++Microsoft.NET.CrossGen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+++Microsoft.NET.Publish.targets
+++Microsoft.NET.PackTool.targets
+++Microsoft.NET.PackProjectTool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+++Microsoft.NET.ConflictResolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+++Microsoft.NET.ILLink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+++Microsoft.NuGet.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+++Microsoft.CSharp.Core.targets
+++Microsoft.CSharp.DesignTime.targets
+++Microsoft.Common.targets
+++Microsoft.ServiceModel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+++System.Windows.Forms.Analyzers.props
+++Microsoft.Managed.Core.targets
+++Microsoft.Managed.DesignTime.targets
+++Microsoft.Common.CurrentVersion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+++Microsoft.NET.props
+++Microsoft.CodeAnalysis.targets
+++Microsoft.Xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+++Microsoft.TeamTest.targets
+++NuGet.targets
+++Microsoft.Docker.ImportAfter.targets
+++Microsoft.NET.Build.Extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+++Microsoft.Web.ImportAfter.targets
+++Microsoft.Docker.targets
