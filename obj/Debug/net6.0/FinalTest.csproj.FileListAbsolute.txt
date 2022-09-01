@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\obj\Debug\net6.0\FinalTest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\obj\Debug\net6.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\obj\Debug\net6.0\FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\bin\Debug\net6.0\FinalTest.exe
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\bin\Debug\net6.0\FinalTest.deps.json
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\bin\Debug\net6.0\FinalTest.runtimeconfig.json
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\bin\Debug\net6.0\FinalTest.dll
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\bin\Debug\net6.0\FinalTest.pdb
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\obj\Debug\net6.0\FinalTest.dll
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\obj\Debug\net6.0\refint\FinalTest.dll
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\obj\Debug\net6.0\FinalTest.pdb
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\obj\Debug\net6.0\FinalTest.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Fundamental Learn\FinalTest\FinalTest\obj\Debug\net6.0\ref\FinalTest.dll
