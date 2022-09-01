@@ -1,0 +1,17 @@
+1. Tampilkan data polis yang disubmit setelah tanggal 15 JANUARI 2018 berdasarkan client
+yang lahir di bulan SEPTEMBER. 
+
+SQL ===> Select tp.POLICY_NUMBER, tp.POLICY_NUMBER_DATE from T.POLICY tp
+		join T.CLIENT tc on tp.CLIENT_NUMBER = tc.CLIENT_NUMBER
+		where POLICY_NUMBER_DATE >= 15-1-2018 && BIRTH_DATE == MONTH(9);
+         group by tp.POLICY_NUMBER, tp.POLICY_NUMBER_DATE 
+
+
+
+2. Tampilkan data polis dengan status INFORCE, yang agentnya berkantor di "JAKARTA".
+SQL ===> Select tp.POLICY_NUMBER, tp.POLICY_STATUS, tp.POLICY_STATUS from T.POLICY tp
+		join T.AGENT ta on tp.AGENT_CODE = ta.AGENT_CODE
+		where POLICY_STATUS = "INFORCE" && AGENT_OFFICE = "JAKARTA"
+	 group by tp.POLICY_NUMBER, tp.POLICY_STATUS, tp.POLICY_STATUS 
+
+3. 

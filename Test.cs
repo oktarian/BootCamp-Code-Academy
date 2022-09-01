@@ -2,6 +2,7 @@
 {
     class finalTest
     {
+        //SOAL1
 
         //SOAL 2
         public static int FaktorialSoal2(int n)
@@ -78,8 +79,9 @@
         }
 
         //SOAL 7
-        public static bool isAnagram(string s1, string s2)
+       /* public static bool isAnagram(string s1, string s2)
         {
+            
             if (s1.Length != s2.Length)
             {
                 return false;
@@ -98,27 +100,8 @@
             }
           
             return true;
-        }
-        /*       static void DisplayAngaram()
-              {
-                  string s1, s2;
-
-                  Console.WriteLine("Masukan kata pertama :");
-                  s1 = Console.ReadLine();
-                  Console.WriteLine("Masukan kata Kedua :");
-                  s2 = Console.ReadLine();
-
-                  // isAnagram angrm = new isAnagram();
-                  string angrm = isAnagram();
-                  if (angrm.isAnagram(s1, s2)== true)
-                  {
-                      Console.WriteLine("TRUE");
-                  }else
-                  {
-                      Console.WriteLine("FALSE");
-                  }
-
-              }*/
+        }*/
+   
 
         //SOAL 8
        /* public static void MatrixSoal8()

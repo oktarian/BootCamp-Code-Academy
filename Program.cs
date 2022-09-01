@@ -33,3 +33,6 @@ Test.finalTest.isAnagram(s1, s2);
 
 //SOAL8 (belum running)
 //Test.finalTest.MatrixSoal8();
+
+
+//soal10(belum)
