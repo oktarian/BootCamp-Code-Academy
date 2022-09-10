@@ -27,5 +27,9 @@ namespace Northwind.web.Controllers
             };*/
             return View("ListEmployee", _IEmployee.GetAll());
         }
+        public IActionResult Category()
+        {
+            return View();
+        }
     }
 }
